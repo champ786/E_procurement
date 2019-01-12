@@ -4,7 +4,9 @@
 <p>
   This project focuses on to make E-procurement procedure more effective and useful for users and businesses.
   Many time we have seen while shopping on an e-commerce website that a product is not good even it has got 
-  good ratings but reviews on the product says truth.
+  good ratings .
+  
+  But reviews on the product says truth.
   But it is impossible to check thousands of reviews and ratings on a particular product manually.
   But using some data analytics tools and techniques we can automate this process which will be very helpful 
   for users to buy a good product.
