@@ -1,0 +1,8 @@
+  Brands of MObiles to be used
+  
+  1- Mi       6 pages
+  2- Samsung  17 pages
+  3- IPhone   4 pages
+  4- Vivo     4 pages
+  5- Asus     7 pages
+  6- Honor    5 pages
