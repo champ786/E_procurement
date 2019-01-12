@@ -7,6 +7,7 @@
   I have used smartphones data available on flipkart using web scrapping.
 
 </p>
+<hr>
 # Data
 <p>
   Data i used in this project is the real data of smartphones available on flipkart.
@@ -32,6 +33,6 @@
  
  </p>
  
- # Final dataset preview
+ <b>Contributors are Welcome</b>
  
  
