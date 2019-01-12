@@ -16,10 +16,15 @@
   Asus , IPhone and vivo etc....
  
   1-asus_mobile.csv file contains data of asus smartphones available on flipkart
+  
   2-mi_mobile(1).csv file contains data of mi smartphones available on flipkart
+  
   3-samsung_mobile.csv file contains data of samsung smartphones available on flipkart
+  
   4-honor_mobile.csv file contains data of honor smartphones available on flipkart
+  
   5-iphone_mobile.csv file contains data of iphone smartphones available on flipkart
+  
   6-vivo_mobile.csv file contains data of vivo smartphones available on flipkart
 
 </p>
