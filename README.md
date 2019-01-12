@@ -8,7 +8,7 @@
 
 </p>
 <hr>
-# Data
+<h1>Data</h1>
 <p>
   Data i used in this project is the real data of smartphones available on flipkart.
   using web scrapper tool ( A google chrome Extension ) we can scrap data available 
@@ -33,6 +33,6 @@
  
  </p>
  
- <b>Contributors are Welcome</b>
+ <h1>Contributors are Welcome</h1>
  
  
