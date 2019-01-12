@@ -3,7 +3,14 @@
 # Idea
 <p>
   This project focuses on to make E-procurement procedure more effective and useful for users and businesses.
-  Although it is just a prototype of this major approach.
+  Many time we have seen while shopping on an e-commerce website that a product is not good even it has got 
+  good ratings but reviews on the product says truth.
+  But it is impossible to check thousands of reviews and ratings on a particular product manually.
+  But using some data analytics tools and techniques we can automate this process which will be very helpful 
+  for users to buy a good product.
+  so i have implemented a solution prototype of such problems .
+  By using the data of positive reviews and negative reviews on a product we can differentiate that which product 
+  is performing well among users and than by calculating a generalized score for every product we can rank products.
   I have used smartphones data available on flipkart using web scrapping.
 
 </p>
