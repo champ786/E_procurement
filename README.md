@@ -7,7 +7,6 @@
   I have used smartphones data available on flipkart using web scrapping.
 
 </p>
-<hr>
 <h1>Data</h1>
 <p>
   Data i used in this project is the real data of smartphones available on flipkart.
@@ -15,7 +14,7 @@
   on flipkart or any other e-commerce website very easily.
   My dataset contains information of different-different brands like Honor, Mi ,
   Asus , IPhone and vivo etc....
-  <hr>
+ 
   asus_mobile.csv file contains data of asus smartphones available on flipkart
   mi_mobile(1).csv file contains data of mi smartphones available on flipkart
   samsung_mobile.csv file contains data of samsung smartphones available on flipkart
