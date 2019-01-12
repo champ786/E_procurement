@@ -15,12 +15,12 @@
   My dataset contains information of different-different brands like Honor, Mi ,
   Asus , IPhone and vivo etc....
  
-  asus_mobile.csv file contains data of asus smartphones available on flipkart
-  mi_mobile(1).csv file contains data of mi smartphones available on flipkart
-  samsung_mobile.csv file contains data of samsung smartphones available on flipkart
-  honor_mobile.csv file contains data of honor smartphones available on flipkart
-  iphone_mobile.csv file contains data of iphone smartphones available on flipkart
-  vivo_mobile.csv file contains data of vivo smartphones available on flipkart
+  asus_mobile.csv file contains data of asus smartphones available on flipkart<hr>
+  mi_mobile(1).csv file contains data of mi smartphones available on flipkart<hr>
+  samsung_mobile.csv file contains data of samsung smartphones available on flipkart<hr>
+  honor_mobile.csv file contains data of honor smartphones available on flipkart<hr>
+  iphone_mobile.csv file contains data of iphone smartphones available on flipkart<hr>
+  vivo_mobile.csv file contains data of vivo smartphones available on flipkart<hr>
 
 </p>
 
